@@ -3,9 +3,7 @@ Install required Python packages:
 pip install faiss-cpu sentence-transformers flask ollama tqdm langchain
 ```
 
-Make sure you have:
-Ollama installed and running locally
-A model pulled, like:
+Make sure you have Ollama installed and running locally and a model pulled, like:
 ```bash
 ollama pull llama3
 ```
